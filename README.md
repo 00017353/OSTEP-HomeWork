@@ -1,1 +1,1 @@
-#This repository contains homework codes from ostep book
+This repository contains homework codes from ostep book
